@@ -41,3 +41,7 @@ pip3 install mariadb
 Home nézetben (osztályban) használt függvények: onSelect, get_contact_id(name), set_listbox_values, delete_entries, add_new, delete_contact, save_contact, load_listbox, TK kezelések
 
 Login nézetben (osztályban) használt függvények: login, TK kezelések, messagebox meghívások
+
+# Képernyőképek
+![Bejelentkezési ablak](loginview.png)
+![Kontakt nézet](homeview.png)
